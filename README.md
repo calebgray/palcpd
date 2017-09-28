@@ -1,2 +1,2 @@
-# palcpd
-Painless and Lightweight Cross-Platform Development
+# pisd
+Platform Independent Software Development
